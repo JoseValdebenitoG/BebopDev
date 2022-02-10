@@ -1,2 +1,2 @@
-# SpawnDev
-personal projects
+# Personal Projects
+
